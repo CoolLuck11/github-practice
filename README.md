@@ -104,3 +104,5 @@ __GitHub__는 원격 저장소를 제공하~~는 서비스이~~기 때문에
 ---
 
 ![이미지 연습](https://avatars1.githubusercontent.com/u/41846267?s=96&v=4)
+
+![카카오톡 이미지](./images/KakaoTalk_20190817_202853399.jpg)
